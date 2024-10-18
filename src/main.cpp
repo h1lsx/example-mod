@@ -54,7 +54,7 @@ class $modify(MyMenuLayer, MenuLayer) {
 		 * https://docs.geode-sdk.org/tutorials/buttons
 		*/
 		auto myButton = CCMenuItemSpriteExtra::create(
-			CCSprite::createWithSpriteFrameName("GJ_likeBtn_001.png"),
+			CCSprite::createWithSpriteFrameName("diffIcon_02_btn_001.png"),
 			this,
 			/**
 			 * Here we use the name we set earlier for our modify class.
@@ -95,6 +95,6 @@ class $modify(MyMenuLayer, MenuLayer) {
 	 * return type `void` and taking a `CCObject*`.
 	*/
 	void onMyButton(CCObject*) {
-		FLAlertLayer::create("Geode", "Hello from my custom mod!", "OK")->show();
+		FLAlertLayer::create("Geode", "AAAAAAAA", "OK")->show();
 	}
 };
