@@ -1,14 +1,14 @@
 {
-	"geode": "$GEODE_VERSION",
+	"geode": "3.8.1",
 	"gd": {
 		"win": "2.206",
 		"android": "2.206",
 		"mac": "2.206",
 		"ios": "2.206"
 	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION"
+	"id": "h1lsx.firstmod",
+	"name": "FirstMod",
+	"version": "1.0.0",
+	"developer": "h1lsx",
+	"description": "I dont know C++"
 }
